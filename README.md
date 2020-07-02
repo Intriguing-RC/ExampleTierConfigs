@@ -28,3 +28,10 @@ requirement:
     mine-data: 0
     mine-amount: 1000
 ```
+
+### Pictures
+The system is a bit hard to understand at first! Pictures will really help you understand the system more. 
+
+### Notes
+- Hooks: ShopGUIPlus + SuperiorSkyblock2
+- MySQL option available. 
