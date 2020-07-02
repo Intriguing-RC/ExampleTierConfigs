@@ -44,9 +44,9 @@ https://youtu.be/3PVZ8-JL6ck<br><br>
 
 ### Notes
 Commands:
-/tiers - Open GUI
-/tiers set <PLAYER> <ITEM> <LEVEL> - Set user to specific level
-/tiers reload - Reload Configurations
+/tiers - Open GUI<br>
+/tiers set <PLAYER> <ITEM> <LEVEL> - Set user to specific level<br>
+/tiers reload - Reload Configurations<br>
 /tiers givetoken <PLAYER> <AMOUNT> - Give token to user.
 
 - Hooks: ShopGUIPlus + SuperiorSkyblock2
