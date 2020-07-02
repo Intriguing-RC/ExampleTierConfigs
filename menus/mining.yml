@@ -1,0 +1,68 @@
+#
+# Mining Configuration
+# Example Configuration by Intriguing :)
+#
+
+gui:
+  name: 'Mining Tiers'
+  slots: 36
+  open-sound:
+    sound: LEVEL_UP
+    volume: 10
+    pitch: 3
+
+items:
+  diamond:
+    display-name: '&bDiamond &7[%current_level%]'
+    slot: 10
+    lore:
+    - ''
+    - '&bCurrent Level: &7%current_level%'
+    - '&bNext Level: &7%next_level%'
+    - ''
+    - '&2I &8- &a&m0% BONUS | Nothing'
+    - '%progress%'
+    - ''
+    - '&eClick to upgrade to &7Level %next_level%'
+    - ''
+  coal:
+    display-name: '&bCoal &7[%current_level%]'
+    slot: 10
+    lore:
+    - ''
+    - '&bCurrent Level: &7%current_level%'
+    - '&bNext Level: &7%next_level%'
+    - ''
+    - '&2I &8- &a&m0% BONUS | Nothing'
+    - '%progress%'
+    - ''
+    - '&bClick to upgrade to &7Level %next_level%'
+    - ''
+
+extra-items:
+  '1':
+    material: STAINED_GLASS_PANE
+    data: 7
+    slots:
+    - 0
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+    - 7
+    - 8
+    - 9
+    - 17
+    - 26
+    - 27
+    - 28
+    - 29
+    - 30
+    - 31
+    - 32
+    - 33
+    - 34
+    - 35
+    display-name: '&r'

@@ -1,0 +1,21 @@
+#
+# Config Configuration
+# Example Configuration by Intriguing :)
+#
+
+tier-skip:
+  display-name: '&a&lTIER SKIP'
+  lore:
+  - ''
+  - '&fThis item skips a tier on an item!'
+  - ''
+  - '&7&o(( Simply open the /tiers menu and right'
+  - '&7&o  click on the item you want the tier skip to apply to! ))'
+  - ''
+  glow: true
+mysql:
+  enabled: true
+  host: 127.0.0.1
+  username: root
+  password: password
+  database-prefix: tiers_

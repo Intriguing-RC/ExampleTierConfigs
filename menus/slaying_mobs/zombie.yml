@@ -1,0 +1,53 @@
+#
+# Zombie Mob Configuration
+# Example Configuration by Intriguing :)
+#
+
+gui:
+  name: 'Slaying Tiers (Zombie)'
+  slots: 27
+  open-sound:
+    sound: LEVEL_UP
+    volume: 10
+    pitch: 3
+
+items:
+  coal:
+    display-name: '&cCoal &7[%current_level%]'
+    slot: 10
+    lore:
+    - ''
+    - '&cCurrent Level: &7%current_level%'
+    - '&cNext Level: &7%next_level%'
+    - ''
+    - '&2I &8- &a&m0% BONUS | Nothing'
+    - '%progress%'
+    - ''
+    - '&cClick to upgrade to &7Level %next_level%'
+    - ''
+
+extra-items:
+  '1':
+    material: STAINED_GLASS_PANE
+    data: 7
+    slots:
+    - 0
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+    - 7
+    - 8
+    - 9
+    - 17
+    - 18
+    - 19
+    - 20
+    - 21
+    - 23
+    - 24
+    - 25
+    - 26
+    display-name: '&r'

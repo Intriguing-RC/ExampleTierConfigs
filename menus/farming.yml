@@ -1,0 +1,56 @@
+#
+# Farming Configuration
+# Example Configuration by Intriguing :)
+#
+
+gui:
+  name: 'Farming Tiers'
+  slots: 36
+  open-sound:
+    sound: LEVEL_UP
+    volume: 10
+    pitch: 3
+
+items:
+  wheat:
+    display-name: '&eWheat &7[%current_level%]'
+    slot: 10
+    lore:
+    - ''
+    - '&eCurrent Level: &7%current_level%'
+    - '&eNext Level: &7%next_level%'
+    - ''
+    - '&2I &8- &a&m0% BONUS | Nothing'
+    - '%progress%'
+    - ''
+    - '&eLeft-Click to upgrade to &7Level %next_level%'
+    - '&eRight-Click to redeem a Skip Token'
+    - ''
+
+extra-items:
+  '1':
+    material: STAINED_GLASS_PANE
+    data: 7
+    slots:
+    - 0
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+    - 7
+    - 8
+    - 9
+    - 17
+    - 26
+    - 27
+    - 28
+    - 29
+    - 30
+    - 31
+    - 32
+    - 33
+    - 34
+    - 35
+    display-name: '&r'

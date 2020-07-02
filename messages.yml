@@ -1,0 +1,18 @@
+#
+# Messages Configuration
+# Example Configuration by Intriguing :)
+#
+
+HELP_MENU:
+- ''
+- '&a&lTiers Help'
+- ''
+- '&a/tiers &8- &7Opens the Tiers GUI menu'
+- '&a/tiers setlevel <player> <item> <level> &8- &7Set the level of a user'
+- '&a/tiers reload &8- &7Reload the plugin'
+- '&a/tiers skiptoken <player> <amount> &8- &7Open the Tiers GUI menu'
+- ''
+LEVEL_UP: '&a&lTiers &8&l» &7You leveled up the &a{item} &7tier to level &a{level}&7 and now have a bonus of &a{bonus}%!'
+RELOAD: '&a&lTiers &8&l» &7You successfully reloaded the plugin'
+
+# There are probably more, here's just some examples ;)

@@ -1,0 +1,31 @@
+#
+# Requirement Configuration
+# Example Configuration by Intriguing :)
+#
+
+items:
+  coal:
+    progress-messages:
+      completed: '&2%level% &8- &a&m%bonus% BONUS | %requirement_text%'
+      in-progress: '&6%level% &8- &e%bonus% BONUS | %requirement_text%'
+      not-started: '&4%level% &8- &c%bonus% BONUS | %requirement_text%'
+    levels:
+      1:
+        bonus-amount: 3.0
+        requirement:
+          type: 'Mine'
+          # This should be based on the jar
+          type-settings:
+            mine-block: COAL_ORE
+            mine-data: 0
+            mine-amount: 1000
+          text: 'Mine Coal (%current%/%required%)'
+      2:
+        bonus-amount: 6.0
+        requirement:
+          type: 'CollectItem'
+          type-settings:
+            collect-item: COAL
+            collect-data: 0
+            collect-amount: 1000
+          text: 'Get Coal (%current%/%required%)'
