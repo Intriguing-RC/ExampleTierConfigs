@@ -38,7 +38,7 @@ Skip Tokens are tokens that will be used to skip a certain level on a certain it
 ### Pictures
 The system is a bit hard to understand at first! Pictures will really help you understand the system more. 
 
-https://youtu.be/3PVZ8-JL6ck<br>
+https://youtu.be/3PVZ8-JL6ck<br><br>
 ![](https://i.intriguing.me/images/2020/07/02/javaw_PFbK6uxrZG.png)
 ![](https://i.intriguing.me/images/2020/07/02/javaw_X7o13FJeP5.png)
 
