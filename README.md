@@ -15,3 +15,4 @@ The system is hard to understand at first for many, so let's introduce an exampl
 Let's say we have a carrot. All items start at Level I (0% sell bonus), so if I were to sell the carrot right now, it would be the same price as in the Shop. Now, let's say to get to Level II, the requirement is to harvest 6000 carrots, while I do that, it should bump up the counter in the GUI, and once I finish, I can click the item to upgrade to level 3.
 
 ### **The Requirement System**
+The requirement system is based off the SuperiorSkyblock mission system 
