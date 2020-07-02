@@ -34,4 +34,5 @@ The system is a bit hard to understand at first! Pictures will really help you u
 
 ### Notes
 - Hooks: ShopGUIPlus + SuperiorSkyblock2
+- There should be fallback menus (e.g. if I hit ESC on the Slaying menu, it should bring me back to the Main Menu
 - MySQL option available. 
